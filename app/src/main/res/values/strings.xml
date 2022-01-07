@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bookmyS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup_page">signup_page</string>
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="title_activity_forgot_password">forgotPassword</string>
+    <string name="desc_av">Nick Fury is compelled to launch the Avengers Initiative when Loki poses a threat to planet Earth. His squad of superheroes put their minds together to accomplish the task.</string>
+    <string name="comment_av1">The Avengers is a gamble that really shouldn\'t have paid off, but Joss Whedon and Marvel Studios made it pay off as best as possible. Four years of Marvel Cinematic Universe movies centered around the individual Avengers members made us care about the characters before bringing them all together for the first time. Add that to a great villain, a smart script, and plenty of action scenes, and you\'ve got yourself a movie for the ages.</string>
+</resources>
